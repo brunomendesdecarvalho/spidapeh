@@ -1,7 +1,6 @@
 # coding: utf-8
 
 import os
-import scraper
 from scrapy.crawler import CrawlerProcess
 import sqlite3
 
